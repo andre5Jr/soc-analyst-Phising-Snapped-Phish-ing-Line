@@ -26,7 +26,7 @@ Email and credential collection path tracing
 Project Overview
 This investigation revolved around a phishing attack targeting a specific user with a PDF attachment. The adversary used redirection techniques and hosted a phishing kit archive to harvest credentials. The goal was to reconstruct the attack chain, from email delivery and redirection, to phishing page behavior, and finally to adversary infrastructure including credential collection endpoints.
 
-Task Breakdown
+Task Breakdown:
 
 ✏️ Task 1: Identify the Target
 Objective: Who is the individual who received an email attachment containing a PDF?

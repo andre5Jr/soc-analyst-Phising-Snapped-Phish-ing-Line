@@ -113,3 +113,44 @@ IOC extraction for threat intel use
 Automate phishing kit analysis using custom scripts
 Create Sigma rules to detect .zip archive delivery via email
 Track certificate reuse across similar phishing domains
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/1-1.png)  
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/1-2.png)   
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/2-1.png)   
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/3-1.png)   
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/3-2.png)   
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/3-3.png)  
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/3-4.png)   
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/4-1.png)   
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/5-1.png)   
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/5-2.png)   
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/6-1.png)  
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/8-1.png)   
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/8-2.png)   
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/8-3.png)   
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/9-1.png)   
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/10-1.png)  
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/11-1.png)   
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/11-2.png)   
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/11-3.png)   
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/11-4.png) 
+

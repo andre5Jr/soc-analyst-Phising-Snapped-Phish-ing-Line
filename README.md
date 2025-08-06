@@ -35,12 +35,22 @@ Task Breakdown:
 
 🔱 Answer: William McClean
 
+📸 Screenshot Space: 
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/1-1.png)  
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/1-2.png)   
+
 ✏️ Task 2: Sender Address
 ⭕️ Objective: What email address was used by the adversary to send the phishing emails?
 
 ⭕️ Method: Analyze the "From" or "Return-Path" in the phishing email headers.
 
 🔱 Answer: Accounts.Payable@groupmarketingonline.icu
+
+📸 Screenshot Space: 
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/2-1.png)   
 
 ✏️ Task 3: Redirection URL for Zoe Duncan
 ⭕️ Objective: What is the redirection URL to the phishing page for the individual Zoe Duncan? (defanged format)
@@ -49,12 +59,26 @@ Task Breakdown:
 
 🔱 Answer: hxxp[://]kennaroads[.]buzz/data/Update365/office365/40e7baa2f826a57fcf04e5202526f8bd/?email=zoe[.]duncan@swiftspend[.]finance&error
 
+📸 Screenshot Space: 
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/3-1.png)   
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/3-2.png)   
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/3-3.png)  
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/3-4.png)   
+
 ✏️ Task 4: Phishing Kit Download Location
 ⭕️ Objective: What is the URL to the .zip archive of the phishing kit? (defanged format)
 
 ⭕️ Method: Inspect the infrastructure used to host the phishing kit and retrieve the archive URL.
 
 🔱 Answer: hxxp[://]kennaroads[.]buzz/data/Update365[.]zip
+
+📸 Screenshot Space: 
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/4-1.png)   
 
 ✏️ Task 5: Phishing Kit Hash
 ⭕️ Objective: What is the SHA256 hash of the phishing kit archive?
@@ -63,6 +87,12 @@ Task Breakdown:
 
 🔱 Answer: ba3c15267393419eb08c7b2652b8b6b39b406ef300ae8a18fee4d16b19ac9686
 
+📸 Screenshot Space: 
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/5-1.png)   
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/5-2.png)   
+
 ✏️ Task 6: Archive Submission Time
 ⭕️ Objective: When was the phishing kit archive first submitted? (format: YYYY-MM-DD HH:MM:SS UTC)
 
@@ -70,12 +100,16 @@ Task Breakdown:
 
 🔱 Answer: 2020-04-08 21:55:50 UTC
 
+📸 Screenshot Space: 
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/6-1.png)  
+
 ✏️ Task 7: SSL Certificate Logging Time
 ⭕️ Objective: When was the SSL certificate the phishing domain used to host the phishing kit archive first logged? (format: YYYY-MM-DD)
 
 ⭕️ Method: Query SSL certificate transparency logs using tools like crt.sh.
 
-🔱 Answer: 2020-06-25
+🔱 Answer: 2020-06-25 (Answer Provided By TryHackMe)
 
 ✏️ Task 8: Victim Who Submitted Password Twice
 ⭕️ Objective: What was the email address of the user who submitted their password twice?
@@ -84,12 +118,24 @@ Task Breakdown:
 
 🔱 Answer: michael.ascot@swiftspend.finance
 
+📸 Screenshot Space: 
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/8-1.png)   
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/8-2.png)   
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/8-3.png)   
+
 ✏️ Task 9: Credential Collection Email
 ⭕️ Objective: What was the email address used by the adversary to collect compromised credentials?
 
 ⭕️ Method: Extract email address used as a collection endpoint in the phishing kit's backend code.
 
 🔱 Answer: m3npat@yandex.com
+
+📸 Screenshot Space: 
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/9-1.png)   
 
 ✏️ Task 10: Additional Gmail Account
 ⭕️ Objective: The adversary used other email addresses in the obtained phishing kit. What is the email address that ends in "@gmail.com"?
@@ -98,12 +144,26 @@ Task Breakdown:
 
 🔱 Answer: jamestanner2299@gmail.com
 
+📸 Screenshot Space: 
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/10-1.png)  
+
 ✏️ Task 11: Final Hidden Flag
 ⭕️ Objective: What is the hidden flag?
 
 ⭕️ Method: Search through phishing kit metadata, source code, or embedded comments for flag syntax.
 
 🔱 Answer: THM{pL4y_w1Th_tH3_URL}
+
+📸 Screenshot Space: 
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/11-1.png)   
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/11-2.png)   
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/11-3.png)   
+
+![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/11-4.png) 
 
 🔍 Analysis and Reflection
 
@@ -147,44 +207,3 @@ IOC extraction for threat intel use
 Automate phishing kit analysis using custom scripts
 Create Sigma rules to detect .zip archive delivery via email
 Track certificate reuse across similar phishing domains
-
-![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/1-1.png)  
-
-![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/1-2.png)   
-
-![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/2-1.png)   
-
-![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/3-1.png)   
-
-![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/3-2.png)   
-
-![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/3-3.png)  
-
-![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/3-4.png)   
-
-![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/4-1.png)   
-
-![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/5-1.png)   
-
-![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/5-2.png)   
-
-![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/6-1.png)  
-
-![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/8-1.png)   
-
-![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/8-2.png)   
-
-![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/8-3.png)   
-
-![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/9-1.png)   
-
-![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/10-1.png)  
-
-![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/11-1.png)   
-
-![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/11-2.png)   
-
-![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/11-3.png)   
-
-![image alt](https://github.com/andre5Jr/soc-analyst-Phising-Snapped-Phish-ing-Line/blob/d5921d5f6da4d4a61f44989040586aad3a15bd27/11-4.png) 
-
